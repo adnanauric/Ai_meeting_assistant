@@ -4,6 +4,8 @@ A professional web application that extracts structured action items from meetin
 
 ![AI Meeting Assistant](https://img.shields.io/badge/Status-Production%20Ready-brightgreen) ![Tests](https://img.shields.io/badge/Tests-53%20Passing-brightgreen) ![TypeScript](https://img.shields.io/badge/TypeScript-6.0-blue) ![React](https://img.shields.io/badge/React-19-blue) ![Vite](https://img.shields.io/badge/Vite-8-purple)
 
+<img src="./assets/Ai_meeting_assistant_interface.png" alt="AI Meeting Assistant Interface" width="100%" />
+
 ## ✨ Features
 
 ### Core
