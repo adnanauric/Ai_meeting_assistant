@@ -3,6 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/Ai_meeting_assistant/',
   plugins: [react()],
   server: {
     // Proxy API requests to local AI servers to avoid CORS issues
