@@ -49,7 +49,7 @@ A professional web application that extracts structured action items from meetin
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/adnanauric/Ai_meeting_assistant.git
 cd Ai_meeting_assistant
 
 # Install dependencies

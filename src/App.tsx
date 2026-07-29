@@ -21,7 +21,7 @@ function App() {
         </div>
         <div className="app-header-actions">
           <a
-            href="https://github.com"
+            href="https://github.com/adnanauric/Ai_meeting_assistant"
             target="_blank"
             rel="noopener noreferrer"
             className="btn btn-ghost btn-sm"
