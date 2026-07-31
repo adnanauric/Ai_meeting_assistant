@@ -1,4 +1,4 @@
-# 🧠 AI Meeting Assistant
+# AI Meeting Assistant
 
 A professional web application that extracts structured action items from meeting transcripts using locally running AI models. All data stays on your machine — private, fast, and professional.
 
@@ -6,7 +6,7 @@ A professional web application that extracts structured action items from meetin
 
 <img src="./assets/Ai_meeting_assistant_interface.png" alt="AI Meeting Assistant Interface" width="100%" />
 
-## ✨ Features
+## Features
 
 ### Core
 - **Transcript Input** — Paste text or upload `.txt`/`.md` files via drag-and-drop
@@ -36,7 +36,7 @@ A professional web application that extracts structured action items from meetin
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -71,7 +71,7 @@ The app opens at **http://localhost:5173/**
 
 ---
 
-## 🏗 Architecture
+## Architecture
 
 ```
 src/
@@ -109,7 +109,7 @@ src/
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ```bash
 # Run all tests
@@ -132,7 +132,7 @@ npm run test:watch
 
 ---
 
-## 📦 Build
+## Build
 
 ```bash
 # Production build
@@ -144,7 +144,7 @@ npm run preview
 
 ---
 
-## 🎨 Design System
+## Design System
 
 The UI uses a premium dark-mode design with:
 - **Color Palette** — Deep navy backgrounds, violet primary, teal secondary
@@ -155,6 +155,6 @@ The UI uses a premium dark-mode design with:
 
 ---
 
-## 📄 License
+## License
 
 MIT
